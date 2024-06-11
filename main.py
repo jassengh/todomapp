@@ -24,4 +24,4 @@ st.text_input(label="", placeholder="Add new Todo...........", on_change=add_tod
 
 
 print(todos)
-print(hello)
+
